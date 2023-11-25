@@ -1,2 +1,2 @@
 # Bakery
-Bakery webeite by html & css
+Bakery website by html & css
